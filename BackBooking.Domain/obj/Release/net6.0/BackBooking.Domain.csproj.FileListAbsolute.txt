@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\bin\Release\net6.0\BackBooking.Domain.deps.json
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\bin\Release\net6.0\BackBooking.Domain.dll
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\bin\Release\net6.0\BackBooking.Domain.pdb
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\obj\Release\net6.0\BackBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\obj\Release\net6.0\BackBooking.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\obj\Release\net6.0\BackBooking.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\obj\Release\net6.0\BackBooking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\obj\Release\net6.0\BackBooking.Domain.dll
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\obj\Release\net6.0\refint\BackBooking.Domain.dll
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\obj\Release\net6.0\BackBooking.Domain.pdb
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Domain\obj\Release\net6.0\ref\BackBooking.Domain.dll

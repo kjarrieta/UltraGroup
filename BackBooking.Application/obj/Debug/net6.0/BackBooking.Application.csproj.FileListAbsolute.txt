@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\bin\Debug\net6.0\BackBooking.Application.deps.json
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\bin\Debug\net6.0\BackBooking.Application.dll
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\bin\Debug\net6.0\BackBooking.Application.pdb
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\bin\Debug\net6.0\BackBooking.Domain.dll
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\bin\Debug\net6.0\BackBooking.Domain.pdb
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\BackBooking.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\BackBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\BackBooking.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\BackBooking.Application.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\BackBooking.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\BackBook.1BECCBBC.Up2Date
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\BackBooking.Application.dll
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\refint\BackBooking.Application.dll
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\BackBooking.Application.pdb
+C:\Users\Usuario\Desktop\UltraGroup\BackBooking.Application\obj\Debug\net6.0\ref\BackBooking.Application.dll
