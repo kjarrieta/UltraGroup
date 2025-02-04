@@ -27,7 +27,7 @@ namespace BackBooking.Application.Services
 
         public async Task SendEmailAsync(BookingGuest bookingGuest)
         {
-            string from = "bookingtravel329@gmail.com";
+            string from = "youremail@example.com";
             string to = bookingGuest.Guest.GuestMail;
             string subject = $"Reservation Confirmation: {bookingGuest.Booking.IdBooking}";
             
